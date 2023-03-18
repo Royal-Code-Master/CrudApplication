@@ -1,5 +1,5 @@
 # CrudApplication
-It is basic crud application using PHP &amp; MySQL
+It is basic crud application using PHP &amp; MySQL (●'◡'●)
 
 
 CREATE: Naturally, the app should be able to create new employee records as you onboard new members to your team. The CREATE operation can be performed by providing a form in the CRUD app that contains form fields like text, numbers, email for input and a submit button to add the new record to database so that, When we hit the submit button for our form, then a POST HTTP request would be sent to our API and add this new Recipe into the DB.
