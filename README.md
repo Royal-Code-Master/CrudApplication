@@ -34,6 +34,8 @@ DELETE: Some employees have moved on from your enterprise and you realize you no
 
 # Update
 
+Updated from admin to local.
+
 ![Screenshot (637)](https://user-images.githubusercontent.com/126596692/226158531-0362c81a-521a-4657-abe4-6e1724bdfc5b.png)
 
 
